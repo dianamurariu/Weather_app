@@ -1,0 +1,21 @@
+/* Set the font size of the root element to 16px */
+:root{
+    font-size: 16px;
+}
+
+/* Style the body element */
+body {
+    margin: 10rem;
+    background-image:url("media/1.jpg"); 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+     /*background-color: #667292;*/
+    color: #f0efef;
+}
+
+/* Style the section that displays the weather information */
+.city-weather {
+    margin-top: 5rem;
+    text-align: center;
+}

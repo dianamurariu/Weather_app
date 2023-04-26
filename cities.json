@@ -1,0 +1,162 @@
+[
+  {
+    "id": 683506,
+    "name": "Bucharest",
+    "state": "",
+    "country": "RO",
+    "coord": {
+        "lon": 26.10626,
+        "lat": 44.432251
+    }
+  },
+  {
+    "id": 681290,
+    "name": "Cluj-Napoca",
+    "state": "",
+    "country": "RO",
+    "coord": {
+        "lon": 23.6,
+        "lat": 46.76667
+    }
+  },
+  {
+    "id": 683843,
+    "name": "Braşov",
+    "state": "",
+    "country": "RO",
+    "coord": {
+        "lon": 25.33333,
+        "lat": 45.75
+    }
+  },
+  {
+    "id": 3054638,
+    "name": "Budapest",
+    "state": "",
+    "country": "HU",
+    "coord": {
+        "lon": 19.08333,
+        "lat": 47.5
+    }
+  },
+  {
+    "id": 2761369,
+    "name": "Vienna",
+    "state": "",
+    "country": "AT",
+    "coord": {
+        "lon": 16.37208,
+        "lat": 48.208488
+    }
+  },
+  {
+    "id": 3060972,
+    "name": "Bratislava",
+    "state": "",
+    "country": "SK",
+    "coord": {
+        "lon": 17.106741,
+        "lat": 48.148159
+    }
+},
+  {
+    "id": 2950158,
+    "name": "Berlin",
+    "state": "",
+    "country": "DE",
+    "coord": {
+        "lon": 10.45,
+        "lat": 54.033329
+    }
+  },
+  {
+    "id": 6356055,
+    "name": "Barcelona",
+    "state": "",
+    "country": "ES",
+    "coord": {
+        "lon": 2.12804,
+        "lat": 41.399422
+    }
+  },
+  {
+    "id": 2562770,
+    "name": "Republic of Malta",
+    "state": "",
+    "country": "MT",
+    "coord": {
+        "lon": 14.43333,
+        "lat": 35.916672
+    }
+  },
+  {
+  "id": 2464470,
+  "name": "Tunis",
+  "state": "",
+  "country": "TN",
+  "coord": {
+      "lon": 10.16579,
+      "lat": 36.81897
+  }
+  },
+  {
+    "id": 5128581,
+    "name": "New York City",
+    "state": "NY",
+    "country": "US",
+    "coord": {
+        "lon": -74.005966,
+        "lat": 40.714272
+    }
+  },
+  {
+    "id": 1705545,
+    "name": "Los Angeles",
+    "state": "",
+    "country": "PH",
+    "coord": {
+        "lon": 125.608063,
+        "lat": 9.0125
+    }
+  },
+  {
+    "id": 3606250,
+    "name": "Las Vegas",
+    "state": "",
+    "country": "HN",
+    "coord": {
+        "lon": -87.449997,
+        "lat": 15.01667
+    }
+  },
+  {
+    "id": 1689969,
+    "name": "San Francisco",
+    "state": "",
+    "country": "PH",
+    "coord": {
+        "lon": 120.436798,
+        "lat": 15.6287
+    }
+  },
+  {
+    "id": 4887398,
+    "name": "Chicago",
+    "state": "IL",
+    "country": "US",
+    "coord": {
+        "lon": -87.650047,
+        "lat": 41.850029
+    }
+  },
+  {
+    "id": 4164138,
+    "name": "Miami",
+    "state": "FL",
+    "country": "US",
+    "coord": {
+        "lon": -80.193657,
+        "lat": 25.774269
+    }
+  }
+]
