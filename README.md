@@ -26,7 +26,7 @@ Welcome to the Weather App! This simple web application provides real-time weath
 
 ## Live Demo
 
-Check out the live demo of the Weather App: [Weather App Demo](https://dianamurariu.github.io/Weather_app/).
+Check out the live demo of the Weather App [here](https://dianamurariu.github.io/Weather_app/).
 
 ## Project Structure
 
