@@ -2,15 +2,9 @@
 
 Welcome to the Weather App! This simple web application provides real-time weather information for various cities. The app is built using HTML, Bootstrap and JavaScript. It utilizes the Open Weather API to fetch weather data and stores city information in JSON file.
 
-## Table of Contents
+## Live Demo
 
-- [Features](#features)
-- [Live Demo](#live-demo)
-- [Project Structure](#project-structure)
-- [City Information](#city-information)
-- [API Integration](#api-integration)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
+Check out the live demo of the Weather App [here](https://dianamurariu.github.io/Weather_app/).
 
 ## Features
 
@@ -23,10 +17,6 @@ Welcome to the Weather App! This simple web application provides real-time weath
   - Wind Speed
   - Humidity
   - Atmospheric Pressure
-
-## Live Demo
-
-Check out the live demo of the Weather App [here](https://dianamurariu.github.io/Weather_app/).
 
 ## Project Structure
 
