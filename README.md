@@ -18,13 +18,6 @@ Check out the live demo of the Weather App [here](https://dianamurariu.github.io
   - Humidity
   - Atmospheric Pressure
 
-## Project Structure
-
-- index.html: The main HTML file that displays the weather information.
-- styles.css: Custom styles for the app.
-- script.js: JavaScript file responsible for fetching weather data and updating the UI.
-- cities.json: JSON file containing information about cities.
-
 ## City Information
 
 The app stores city information in a JSON file named cities.json. To add or update city information, modify this file accordingly. Each city object should follow the structure below:
@@ -41,14 +34,12 @@ Example:
 
 The app utilizes the Open Weather API to fetch real-time weather data. The API key is obtain by signing up on the Open Weather Map website and replacing the placeholder in the script.js file with the actual API key.
 
-const key = '7fb35c18c62511d6b460ef5313a52f16';
+## Dependencies
+
+- [Bootstrap](https://getbootstrap.com/): Used for styling the UI and making it responsive.
+- [Open Weather API](https://openweathermap.org/): Provides real-time weather data.
 
 ## Usage
 
 1. Clone the repository.
 2. Open the `index.html` file in your preferred web browser.
-
-## Dependencies
-
-- [Bootstrap](https://getbootstrap.com/): Used for styling the UI and making it responsive.
-- [Open Weather API](https://openweathermap.org/): Provides real-time weather data.
